@@ -1,0 +1,15 @@
+D:\C#\Another\Day_1\ChuVi_DienTich\bin\Debug\net8.0\ChuVi_DienTich.exe
+D:\C#\Another\Day_1\ChuVi_DienTich\bin\Debug\net8.0\ChuVi_DienTich.deps.json
+D:\C#\Another\Day_1\ChuVi_DienTich\bin\Debug\net8.0\ChuVi_DienTich.runtimeconfig.json
+D:\C#\Another\Day_1\ChuVi_DienTich\bin\Debug\net8.0\ChuVi_DienTich.dll
+D:\C#\Another\Day_1\ChuVi_DienTich\bin\Debug\net8.0\ChuVi_DienTich.pdb
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.AssemblyInfoInputs.cache
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.AssemblyInfo.cs
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.csproj.CoreCompileInputs.cache
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.sourcelink.json
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.dll
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\refint\ChuVi_DienTich.dll
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.pdb
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ChuVi_DienTich.genruntimeconfig.cache
+D:\C#\Another\Day_1\ChuVi_DienTich\obj\Debug\net8.0\ref\ChuVi_DienTich.dll

@@ -1,4 +1,4 @@
-﻿﻿# Buổi 1 
+# Buổi 1
 ## Git, GitHub, Các lệnh git cơ bản và Cấu trúc cơ bản của một chương trình C#
 ### 1. Git và GitHub
 - `Git` còn được gọi là Distributed Version Control System (DVCS) hay VCS, là một hệ thống quản lý phiên bản phân tán ra đời vào năm 2005 và trở thành một hệ thống quản lý phiên bản phân tán được sử dụng nhiều nhất hiện nay. Có thể nói Git là một kho lưu trữ chưa toàn bộ lịch sử của người dùng khi sử dụng. 

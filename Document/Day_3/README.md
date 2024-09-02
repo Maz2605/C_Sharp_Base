@@ -172,44 +172,40 @@ Ví dụ minh họa:
 ```
 ### 3. Cấu trúc rẽ nhánh 
 #### a, Cấu trúc if - else
-Cấu trúc if - Dạng thiếu
+Cấu trúc if
 ```C#
-    if (<Biểu thức điều kiện>)
-        <Câu lệnh hoặc khối lệnh thực hiện>; //Câu lệnh hoặc khối lệnh thi hành nếu điều_kiện là đúng
+    if (condition){
+         //Câu lệnh hoặc khối lệnh thi hành nếu điều_kiện là đúng
+    }
 ```
 + Trong đó :
 
 - `if` là từ khóa bắt buộc.
-
-- `<Biểu thức điều kiện>` là biểu trức dạng `bool` (trả về true hoặc false).
-
-- `<Câu lệnh hoặc khối lệnh thực hiện>` là câu lệnh muốn thực hiện nếu `<Biểu thức điều kiện>` là đúng.
+- `condition` là biểu trức dạng `bool` (trả về true hoặc false).
 
 Ví dụ minh họa: 
 ```C#
     int number = 10;
 
-        if (number > 0)
-        {
-            Console.WriteLine($"{number} là số dương");
-        }
-```
-Cấu trúc if - else Dạng đầy đủ 
-```C#
-    if (<Biểu thức điều kiện>)
+    if (number > 0)
     {
-        <Câu lệnh hoặc khối lệnh thực hiện 1>//Câu lệnh thi hành nếu điều_kiện là đúng
+        Console.WriteLine($"{number} là số dương");
+    }
+```
+Cấu trúc if - else
+```C#
+    if (condition)
+    {
+        //Câu lệnh thi hành nếu điều_kiện là đúng
     }
     else
     {
-        <Câu lệnh hoặc khối lệnh thực hiện 2>//Câu lệnh thi hành nếu điều_kiện là sai
+        //Câu lệnh thi hành nếu điều_kiện là sai
     }
 ```
 Trong đó: 
 - `if`, `else` là từ khóa bắt buộc.
-- `<Biểu thức điều kiện>` là biểu trức dạng `bool` (trả về true hoặc false).
-- `<Câu lệnh hoặc khối lệnh thực hiện 1>` là câu lệnh muốn thực hiện nếu `<Biểu thức điều kiện>` là đúng.
-- `<Câu lệnh hoặc khối lệnh thực hiện 2>` là câu lệnh muốn thực hiện nếu `<Biểu thức điều kiện>` là sai.
+- `condition` là biểu trức dạng `bool` (trả về true hoặc false).
 
 Ví dụ minh họa:
 ```C#
@@ -224,24 +220,25 @@ Ví dụ minh họa:
             Console.WriteLine($"{number} là số không hoặc số âm");
         }
 ```
+
 Sau else bạn có thể bắt đầu ngay một lệnh if khác để tạo ra cấu trúc if else, kiểm tra nhiều trường hợp
 
 Ví dụ minh họa: 
 ```C#
     int number = 0;
 
-        if (number > 0)
-        {
-            Console.WriteLine($"{number} là số dương");
-        }
-        else if (number < 0)
-        {
-            Console.WriteLine($"{number} là số âm");
-        }
+    if (number > 0)
+    {
+        Console.WriteLine($"{number} là số dương");
+    }
+    else if (number < 0)
+    {
+        Console.WriteLine($"{number} là số âm");
+    }
         else
-        {
-            Console.WriteLine($"{number} là số không");
-        }
+    {   
+        Console.WriteLine($"{number} là số không");
+    }
 ```
 Các cấu trúc if - else có thể lồng vào nhau để xét những trường hợp phức tạp
 
@@ -268,48 +265,48 @@ Ví dụ minh họa:
 ```
 #### b, Toán tử ba ngôi
 ```C#
-    <Kiểu dữ liệu> <Tên biến trả về> = (<Biểu thức điều kiện>) ? <Kết quả 1> : <Kết quả 2> 
+    Datatype variable = (condition) ? value1 : value2; 
 ```
 Trong đó:
-- `<Kiểu dữ liệu>` : Kiểu dữ liệu của biến trả về kết quả
-- `<Tên biến trả về>`: Biến trả về kết quả
-- `<Biểu thức điều kiện>`: biểu trức dạng bool (trả về true hoặc false)
-- `<Kết quả 1>`: Giá trị trả về biến nếu như điều kiện đúng
-- `<Kết quả 2>`: Giá trị trả về biến nếu như điều kiện sai
+- `Datatype` : Kiểu dữ liệu của biến trả về kết quả
+- `variable`: Biến trả về kết quả
+- `condition`: biểu trức dạng bool (trả về true hoặc false)
+- `value1`: Giá trị trả về biến nếu như điều kiện đúng
+- `value2`: Giá trị trả về biến nếu như điều kiện sai
 
 Ví dụ minh họa:
 ```C#
-int a = 5, b = 10;
-int max = (a > b) ? a : b;
-Console.WriteLine("Max value: " + max); // Output: Max value: 10
+    int a = 5, b = 10;
+    int max = (a > b) ? a : b;
+    Console.WriteLine("Max value: " + max); // Output: Max value: 10
 ```
 #### c, Cấu trúc Switch - Case
 ```C#
-switch (<biểu thức>)
+switch (experssion)
 {
-    case <Giá trị thứ 1>:
-        //Cách lệnh thi  hành nếu biểu thức == Giá trị thứ 1
-    break;
-    case <Giá tri thứ 2>:
-        //Cách lệnh thi  hành nếu biểu thức == Giá trị thứ 2
-    break;
-    case <Giá tri thứ i>:
-        // Cách lệnh thi  hành nếu biểu thức == Giá trị thứ i
+    case value1:
+        //Cách lệnh thi  hành nếu biểu thức == value1
+        break;
+    case value2:
+        //Cách lệnh thi  hành nếu biểu thức == value2
+        break;  
+    case valuei:
+        // Cách lệnh thi  hành nếu biểu thức == valuei
+        break;
     default:
         //Các lệnh thực thi nếu biểu thức không giống bất kỳ giá trị nào
-    break;
+        break;
 }
 ```
 
 Trong đó: 
 - `switch`, `case` là từ khóa bắt buộc.
 - `break` là một lệnh nhảy: Ý nghĩa của nó là thoát ra khỏi cấu trúc, vòng lặp chứa nó
-- `<biểu thức>` phải là biểu thức trả về kết quả kiểu:
+- `experssion` phải là biểu thức trả về kết quả kiểu:
     - `Số nguyên` (int, long, byte, . . .)
     - `Ký tự` hoặc `chuỗi` (char, string)
     - Kiểu `liệt kê` (enum )
-- `<giá trị thứ i>` với i = 1..n là giá trị muốn so sánh với giá trị của `<biểu thức>`.
-- `<câu lệnh thứ i>` với i = 1..n là câu lệnh muốn thực hiện khi `<giá trị thứ i>` tương ứng bằng với giá trị của `<biểu thức>`.
+- `valuei` với i = 1..n là giá trị muốn so sánh với giá trị của `experssion`.
 
 Ví dụ minh họa: 
 ```C#

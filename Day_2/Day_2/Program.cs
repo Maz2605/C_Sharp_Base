@@ -4,9 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            int a = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Bienes{a }");
+            //Tính chu vi, diện tích hình chữ nhật 
+            //Tính chu vi diện tích hình tròn nhập r => Chu vi và diện tich 
+            //Chu vi của hình tròn: d * pi
+            
+            
         }
     }
 }

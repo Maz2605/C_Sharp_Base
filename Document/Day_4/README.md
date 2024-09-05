@@ -6,10 +6,10 @@ Vòng lặp là gì?
 #### a, Vòng lặp for
 Cú pháp: 
 ```C#
-for (initialzation; condition; interation)
-{
-  //Các câu lệnh trong khối
-}
+    for (initialzation; condition; interation)
+    {
+    //Các câu lệnh trong khối
+    }
 ```
 Trong đó: 
 - Các phần `initialization`; `condition`; `interation` là một câu lệnh riêng và hoàn toàn có thể để trống
@@ -157,7 +157,8 @@ Chức năng: Dùng để kết thúc `phương thức` và trả về giá tr�
 #### e, throw
 Chức năng: Dùng để ném ra `một ngoại lệ` (exception) trong quá trình xử lý lỗi.
 #### f, try, catch, finally
-Chức năng: Dùng để xử lý `các ngoại lệ` trong quá trình thực thi 
+Chức năng: Dùng để xử lý `các ngoại lệ` trong quá trình thực thi
+
 ### 3. Format code theo chuẩn C#
 Phím tắt nhanh trong Visual Studio:
 - Format toàn bộ tệp tin: Nhấn `Ctrl + K`, sau đó nhấn `Ctrl + D`.

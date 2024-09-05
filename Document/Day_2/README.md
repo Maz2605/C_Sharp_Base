@@ -363,6 +363,45 @@ Thư viện lớp C# cung cấp sẵn một lớp tên là Console (System.Conso
 - `Console.ForegroundColor` - thuộc tính để gán màu chữ xuất ra, nó có thể gán các màu như - ConsoleColor.Red, ConsoleColor.Green, ConsoleColor.White ...
 - `Console.ResetColor()` - đưa Console về màu mặc định
 
+1 vài cách sử dụng của lệnh `Console.WriteLine()`
+```C#
+//In ra 1 chuỗi
+    Console.WriteLine("Hello World");
+
+//In ra các kiểu dữ liệu khác 
+    int age = 25;
+    double height = 1.75;
+    char letter = 'A';
+    Console.WriteLine(age);     // Kết quả: 25
+    Console.WriteLine(height);  // Kết quả: 1.75
+    Console.WriteLine(letter);  // Kết quả: A
+//Sử dụng với nhiều tham số 
+    int age = 25;
+    string name = "John";
+    Console.WriteLine("Name: {0}, Age: {1}", name, age);
+    // Kết quả: Name: John, Age: 25
+    //{0}, {1},... là các placeholder cho các tham số tương ứng được truyền vào sau chuỗi định dạng.
+//In số thập phân với định dạng
+    double pi = 3.14159;
+    // In với 2 chữ số sau dấu thập phân
+    Console.WriteLine("Pi = {0:F2}", pi); // Kết quả: Pi = 3.14
+    // In với 3 chữ số sau dấu thập phân
+    Console.WriteLine("Pi = {0:F3}", pi); // Kết quả: Pi = 3.142
+//Sử dụng phép nối chuỗi string firstName = "John";
+    string lastName = "Doe";
+    int age = 30;
+    Console.WriteLine("Name: " + firstName + " " + lastName + ", Age: " + age);
+    // Kết quả: Name: John Doe, Age: 30
+//Sử dụng các ký tự đặc biệt trong chuỗi 
+    Console.WriteLine("Line 1\nLine 2"); // Xuống dòng
+    Console.WriteLine("Column 1\tColumn 2"); // Tab
+//Sử dụng với string interpolation (Nội suy chuỗi)
+    string name = "Alice";
+    int age = 28;
+    Console.WriteLine($"Name: {name}, Age: {age}");
+    // Kết quả: Name: Alice, Age: 28
+```
+
 Ví dụ minh họa
 ```C#
 int a = 123;

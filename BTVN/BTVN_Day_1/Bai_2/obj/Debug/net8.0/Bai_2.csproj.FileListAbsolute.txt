@@ -1,0 +1,15 @@
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\bin\Debug\net8.0\Bai_2.exe
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\bin\Debug\net8.0\Bai_2.deps.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\bin\Debug\net8.0\Bai_2.runtimeconfig.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\bin\Debug\net8.0\Bai_2.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\bin\Debug\net8.0\Bai_2.pdb
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.AssemblyInfoInputs.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.AssemblyInfo.cs
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.csproj.CoreCompileInputs.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.sourcelink.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\refint\Bai_2.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.pdb
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\Bai_2.genruntimeconfig.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_2\obj\Debug\net8.0\ref\Bai_2.dll

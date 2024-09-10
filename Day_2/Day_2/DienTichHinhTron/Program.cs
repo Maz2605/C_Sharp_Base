@@ -12,6 +12,8 @@
             double C = 2 * r * Math.PI;
             Console.WriteLine("Chu vi C = " + C);
             Console.WriteLine("Dien tich S = " + S);
+
+
         }
     }
 }

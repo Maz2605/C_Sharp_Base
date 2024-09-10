@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B42938-D596-46E0-B737-F1954133FF82}|Bai_3\\Bai_3.csproj|d:\\c#\\c_sharp_base\\btvn\\btvn_day_1\\bai_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B42938-D596-46E0-B737-F1954133FF82}|Bai_3\\Bai_3.csproj|solutionrelative:bai_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE34C0A-ED61-4B91-B3D3-809CEA1B0DB4}|Bai_5\\Bai_5.csproj|D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\bai_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE34C0A-ED61-4B91-B3D3-809CEA1B0DB4}|Bai_5\\Bai_5.csproj|solutionrelative:bai_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421C6298-B57E-49EA-9044-A0C8672230F5}|Bai_4\\Bai_4.csproj|D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\bai_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421C6298-B57E-49EA-9044-A0C8672230F5}|Bai_4\\Bai_4.csproj|solutionrelative:bai_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A196A3-F576-4FD7-B656-D68D19D00DCC}|Bai_2\\Bai_2.csproj|D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\bai_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A196A3-F576-4FD7-B656-D68D19D00DCC}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D509DF3D-C434-44D4-A015-EE1F07B2D712}|Bai_1\\Bai_1.csproj|D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D509DF3D-C434-44D4-A015-EE1F07B2D712}|Bai_1\\Bai_1.csproj|solutionrelative:bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_5\\Program.cs",
+              "ToolTip": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_5\\Program.cs",
+              "RelativeToolTip": "Bai_5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:02:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_4\\Program.cs",
+              "ToolTip": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_4\\Program.cs",
+              "RelativeToolTip": "Bai_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:58:36.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_3\\Program.cs",
+              "ToolTip": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_3\\Program.cs*",
+              "RelativeToolTip": "Bai_3\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:56:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Program.cs",
+              "ToolTip": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_2\\Program.cs",
+              "RelativeToolTip": "Bai_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:48:18.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_1\\Program.cs",
+              "ToolTip": "D:\\C#\\C_Sharp_Base\\BTVN\\BTVN_Day_1\\Bai_1\\Program.cs",
+              "RelativeToolTip": "Bai_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:43:12.321Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

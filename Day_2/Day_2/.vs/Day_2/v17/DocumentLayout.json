@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\C#\\C_Sharp_Base\\Day_2\\Day_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEEBCC16-E10C-499D-BDA8-C9EA3243C2CC}|DienTichHinhTron\\DienTichHinhTron.csproj|d:\\c#\\c_sharp_base\\day_2\\day_2\\dientichhinhtron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEEBCC16-E10C-499D-BDA8-C9EA3243C2CC}|DienTichHinhTron\\DienTichHinhTron.csproj|solutionrelative:dientichhinhtron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\C_Sharp_Base\\Day_2\\Day_2\\DienTichHinhTron\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DienTichHinhTron\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\C_Sharp_Base\\Day_2\\Day_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "DienTichHinhTron\\Program.cs",
               "ToolTip": "D:\\C#\\C_Sharp_Base\\Day_2\\Day_2\\DienTichHinhTron\\Program.cs",
               "RelativeToolTip": "DienTichHinhTron\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T15:43:24.962Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\C#\\C_Sharp_Base\\Day_2\\Day_2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T03:52:54.934Z",
               "EditorCaption": ""

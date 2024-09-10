@@ -1,0 +1,15 @@
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\bin\Debug\net8.0\Bai_4.exe
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\bin\Debug\net8.0\Bai_4.deps.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\bin\Debug\net8.0\Bai_4.runtimeconfig.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\bin\Debug\net8.0\Bai_4.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\bin\Debug\net8.0\Bai_4.pdb
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.AssemblyInfoInputs.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.AssemblyInfo.cs
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.csproj.CoreCompileInputs.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.sourcelink.json
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\refint\Bai_4.dll
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.pdb
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\Bai_4.genruntimeconfig.cache
+D:\C#\C_Sharp_Base\BTVN\BTVN_Day_1\Bai_4\obj\Debug\net8.0\ref\Bai_4.dll
